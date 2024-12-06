@@ -4,11 +4,11 @@ Predicting Airbnb property prices using data science techniques.
 # Project Overview
 This project aims to develop a regression model to predict the log-transformed prices of residential properties listed on Airbnb. The process includes data cleaning, feature engineering, and advanced imputation techniques, followed by model training and evaluation.
 
-#Table of Contents
-# Objective
-# Workflow
-# Technologies Used
-# Results
+# Table of Contents
+   Objective
+   Workflow
+   Technologies Used
+   Results
 
 
 # Getting Started
